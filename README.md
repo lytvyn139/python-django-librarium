@@ -1,5 +1,5 @@
 # LIBRARIUM
-![](bookAuthorsapp/static/img/demo.png)
+![](booksAuthorsApp/static/img/demo.png)
 
 ## Getting Started
 This project demonstrates django routes. You can add your books and authors, vice versa
